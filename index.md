@@ -1,3 +1,7 @@
+---
+title: Home
+---
+
 ## Welcome to Yuki's Blog
 
-Coming soon!
+Coming soon maybe!
